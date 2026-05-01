@@ -49,3 +49,61 @@
 +Add UniversalPrivilegeTax.Core/Models/TaxSubmission.cs.
 +
 +Create a React frontend in src/Frontend using: npm create vite@latest . -- --template react-ts.
+
+# 2026-05-01 16:39:51.711224
++The local folder is missing the API and Infrastructure projects. Please run these commands in the current root directory:
++
++dotnet new classlib -n UniversalPrivilegeTax.Infrastructure
++
++dotnet new webapi -n UniversalPrivilegeTax.Api
++
++dotnet new xunit -n UniversalPrivilegeTax.Tests
++
++dotnet sln UniversalPrivilegeTax.sln add UniversalPrivilegeTax.Infrastructure UniversalPrivilegeTax.Api UniversalPrivilegeTax.Tests
++
++Create a src/Frontend folder and run: npm create vite@latest . -- --template react-ts inside it.
+
+# 2026-05-01 16:40:03.282493
++y
+
+# 2026-05-01 16:40:03.285441
++/run dotnet new classlib -n UniversalPrivilegeTax.Infrastructure
+
+# 2026-05-01 16:40:03.285441
++/run dotnet new classlib -n UniversalPrivilegeTax.Infrastructure
+
+# 2026-05-01 16:40:05.387537
++/run dotnet new webapi -n UniversalPrivilegeTax.Api
+
+# 2026-05-01 16:40:05.392548
++/run dotnet new webapi -n UniversalPrivilegeTax.Api
+
+# 2026-05-01 16:40:07.975975
++/run dotnet new xunit -n UniversalPrivilegeTax.Tests
+
+# 2026-05-01 16:40:07.975975
++/run dotnet new xunit -n UniversalPrivilegeTax.Tests
+
+# 2026-05-01 16:40:10.223347
++/run dotnet sln UniversalPrivilegeTax.sln add UniversalPrivilegeTax.Infrastructure UniversalPrivilegeTax.Api UniversalPrivilegeTax.Tests
+
+# 2026-05-01 16:40:10.223347
++/run dotnet sln UniversalPrivilegeTax.sln add UniversalPrivilegeTax.Infrastructure UniversalPrivilegeTax.Api UniversalPrivilegeTax.Tests
+
+# 2026-05-01 16:40:11.179626
++/run mkdir src
+
+# 2026-05-01 16:40:11.179626
++/run mkdir src
+
+# 2026-05-01 16:40:12.788141
++/run cd src
+
+# 2026-05-01 16:40:12.788141
++/run cd src
+
+# 2026-05-01 16:40:13.859105
++/run npm create vite@latest Frontend -- --template react-ts
+
+# 2026-05-01 16:40:13.865290
++/run npm create vite@latest Frontend -- --template react-ts
