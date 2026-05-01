@@ -1,0 +1,51 @@
+
+# 2026-05-01 16:22:40.790425
++n
+
+# 2026-05-01 16:22:44.116927
++I am starting fresh with an empty folder. Let's build a white-labeled Universal Privilege Tax system:
++
++Create a .NET solution: dotnet new sln -n UniversalPrivilegeTax.
++
++Create the projects:
++
++dotnet new classlib -n UniversalPrivilegeTax.Core
++
++dotnet new classlib -n UniversalPrivilegeTax.Infrastructure
++
++dotnet new webapi -n UniversalPrivilegeTax.Api
++
++dotnet new xunit -n UniversalPrivilegeTax.Tests
++
++Add projects to the solution and link them (Api -> Infrastructure -> Core).
++
++Initialize a React frontend in src/Frontend using: npm create vite@latest . -- --template react-ts.
++
++Create a TaxSubmission.cs file in UniversalPrivilegeTax.Core/Models/
+
+# 2026-05-01 16:22:54.627016
++y
+
+# 2026-05-01 16:22:57.111644
++d
+
+# 2026-05-01 16:27:41.254000
++I have initialized the Git repo. Please build the white-labeled foundation:
++
++Create a .NET solution: UniversalPrivilegeTax.sln.
++
++Create these projects:
++
++dotnet new classlib -n UniversalPrivilegeTax.Core
++
++dotnet new classlib -n UniversalPrivilegeTax.Infrastructure
++
++dotnet new webapi -n UniversalPrivilegeTax.Api
++
++dotnet new xunit -n UniversalPrivilegeTax.Tests
++
++Link them: Api -> Infrastructure -> Core.
++
++Add UniversalPrivilegeTax.Core/Models/TaxSubmission.cs.
++
++Create a React frontend in src/Frontend using: npm create vite@latest . -- --template react-ts.
