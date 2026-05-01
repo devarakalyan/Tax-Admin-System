@@ -1,0 +1,16 @@
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Infrastructure\bin\Debug\net8.0\UniversalPrivilegeTax.Infrastructure.deps.json
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Infrastructure\bin\Debug\net8.0\UniversalPrivilegeTax.Infrastructure.dll
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Infrastructure\bin\Debug\net8.0\UniversalPrivilegeTax.Infrastructure.pdb
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Infrastructure\bin\Debug\net8.0\UniversalPrivilegeTax.Core.dll
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Infrastructure\bin\Debug\net8.0\UniversalPrivilegeTax.Core.pdb
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Infrastructure\obj\Debug\net8.0\UniversalPrivilegeTax.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Infrastructure\obj\Debug\net8.0\UniversalPrivilegeTax.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Infrastructure\obj\Debug\net8.0\UniversalPrivilegeTax.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Infrastructure\obj\Debug\net8.0\UniversalPrivilegeTax.Infrastructure.AssemblyInfo.cs
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Infrastructure\obj\Debug\net8.0\UniversalPrivilegeTax.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Infrastructure\obj\Debug\net8.0\UniversalPrivilegeTax.Infrastructure.sourcelink.json
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Infrastructure\obj\Debug\net8.0\Universa.394EA7AB.Up2Date
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Infrastructure\obj\Debug\net8.0\UniversalPrivilegeTax.Infrastructure.dll
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Infrastructure\obj\Debug\net8.0\refint\UniversalPrivilegeTax.Infrastructure.dll
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Infrastructure\obj\Debug\net8.0\UniversalPrivilegeTax.Infrastructure.pdb
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Infrastructure\obj\Debug\net8.0\ref\UniversalPrivilegeTax.Infrastructure.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UniversalPrivilegeTax.Infrastructure/1.0.0": {
+        "dependencies": {
+          "UniversalPrivilegeTax.Core": "1.0.0"
+        },
+        "runtime": {
+          "UniversalPrivilegeTax.Infrastructure.dll": {}
+        }
+      },
+      "UniversalPrivilegeTax.Core/1.0.0": {
+        "runtime": {
+          "UniversalPrivilegeTax.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UniversalPrivilegeTax.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UniversalPrivilegeTax.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

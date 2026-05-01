@@ -1,0 +1,12 @@
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Core\bin\Debug\net8.0\UniversalPrivilegeTax.Core.deps.json
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Core\bin\Debug\net8.0\UniversalPrivilegeTax.Core.dll
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Core\bin\Debug\net8.0\UniversalPrivilegeTax.Core.pdb
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Core\obj\Debug\net8.0\UniversalPrivilegeTax.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Core\obj\Debug\net8.0\UniversalPrivilegeTax.Core.AssemblyInfoInputs.cache
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Core\obj\Debug\net8.0\UniversalPrivilegeTax.Core.AssemblyInfo.cs
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Core\obj\Debug\net8.0\UniversalPrivilegeTax.Core.csproj.CoreCompileInputs.cache
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Core\obj\Debug\net8.0\UniversalPrivilegeTax.Core.sourcelink.json
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Core\obj\Debug\net8.0\UniversalPrivilegeTax.Core.dll
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Core\obj\Debug\net8.0\refint\UniversalPrivilegeTax.Core.dll
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Core\obj\Debug\net8.0\UniversalPrivilegeTax.Core.pdb
+C:\Users\jayab\Documents\Projects\Universal-Tax-System\UniversalPrivilegeTax.Core\obj\Debug\net8.0\ref\UniversalPrivilegeTax.Core.dll
